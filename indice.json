@@ -1,1 +1,3 @@
-   { "meses": [] }
+   { "meses": [
+     { "label": "Agosto 2026", "file": "AGOSTO 2026.json" }
+   ] }
